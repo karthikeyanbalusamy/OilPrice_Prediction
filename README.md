@@ -1,6 +1,7 @@
 # OilPrice Prediction
-The goal of this repo is to build a model to predict the Oil price using Linear Regression.
+The goal of this repo is to build a model that predicts the Oil price using simple Linear Regression. It is useful for finding the relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. Plot the best fit line and predict the oil price and same will be verified using R-squared metrices.
 
+# Problem Statement
 Oil price in the international market fluctuates everyday. Many industry that rely on oil as input. Certainly, this model helps the downstream companies to predict the oil price and invest accordingly.
 
 # DataSource
@@ -15,9 +16,10 @@ However, always been a challenge especially when plotting the date series. It re
 3. Convert DateTiemIndex to Day elapsed
 4. Plot the Time series data
 
-# Assumptions of Linear Regression
-* Linear Relationship: From the below line graph, it is observed that the positive, strong co-relation between dependent (response) variable and independent (predictor) variable.
-![image.png](Images/Line_Graph.png)<BR>
+# Data Visualization
+  From the below line graph, it is observed that the positive, strong co-relation between dependent and independent variable. Hence it satisfies the Linear Relationship.
+  
+ ![image.png](Images/Line_Graph.png)<BR>
   
 ![image.png](Images/Regression.png)<BR>
 
