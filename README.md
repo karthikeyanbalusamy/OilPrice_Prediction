@@ -16,13 +16,13 @@ However, always been a challenge especially when plotting the date series. It re
 4. Plot the Time series data
 
 # Assumptions of Linear Regression
-![image.png](Images/Line_Graph.png)<BR><BR>
-From the above line graph, it is observed that it satisfies the Linear relationship.
+![image.png](Images/Line_Graph.png)<BR>
+* Linear Relationship: From the above line graph, it is observed that the positive, strong co-relation between dependent (response) variable and independent (predictor) variable.
+  
+![image.png](Images/Regression.png)<BR>
 
-![image.png](Images/LR.png)<BR><BR>
 
-
-![image.png](Images/BestFit.png)<BR><BR>
+![image.png](Images/BestFit.png)<BR>
 
 
 # Split Data - Train & Test
