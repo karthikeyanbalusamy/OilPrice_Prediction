@@ -30,3 +30,15 @@ Intercept    : 57.47706099989631
 and the linear score found to be 0.90596790465424, which means the 91% accuracy.
 
 ![image.png](Images/BestFit.png)<BR>
+
+# Manually Evaluate the Model 
+
+57.47706099989632 + 0.13058265*117 (ie 2019-04-29)
+
+# Evaluate the Predicting vs Actual
+Predicting : 72.75 # From the above model<BR>
+Actual     : 71.22 # Actual Data<BR>
+
+# Conclusion
+Coefficient of the prediction shows the 0.905 ie 91% accuracy.
+For Instance, Oil Price on 2019-04-29 is 71.22, where as the model predicted as 72.75
