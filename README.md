@@ -1,4 +1,4 @@
-# OilPrice Prediction
+# OilPrice Prediction using Linear Regression
 
 <img src="https://github.com/karthikeyanbalusamy/OilPrice_Prediction/blob/master/Images/Oil-Barrels-with-falling-oil-price.jpg" width="840" height="260" align="middle" />
 
