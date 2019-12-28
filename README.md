@@ -19,12 +19,12 @@ However, always been a challenge especially when plotting the date series. It re
 4. Plot the Time series data
 
 # Assumptions of LR
-  1. Linear relationship:
+####  1. Linear relationship:
   From the below graphs, it is observed that the positive, strong co-relation between dependent and independent variable. 
   
  ![image.png](Images/Line_Graph.png)<BR>
   
- 2. Normal Distribution
+#### 2. Normal Distribution
  It is inferred from the below graph, that the data is normally distrinuted.
   
 ![image.png](Images/Regression.png)<BR>
