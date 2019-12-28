@@ -1,6 +1,8 @@
+# OilPrice Prediction
+
 <img src="https://github.com/karthikeyanbalusamy/OilPrice_Prediction/blob/master/Images/Oil-Barrels-with-falling-oil-price.jpg" width="840" height="260" align="middle" />
 
-# OilPrice Prediction
+# Overview
 The goal of this repo is to build a model that predicts the Oil price using simple Linear Regression. It is useful for finding the relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. Plot the best fit line and predict the oil price and same will be verified using R-squared metrices.
 
 # Problem Statement
