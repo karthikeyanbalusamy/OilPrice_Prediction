@@ -1,3 +1,5 @@
+<img src="https://github.com/karthikeyanbalusamy/OilPrice_Prediction/blob/master/Images/Oil-Barrels-with-falling-oil-price.jpg" width="840" height="260" align="middle" />
+
 # OilPrice Prediction
 The goal of this repo is to build a model that predicts the Oil price using simple Linear Regression. It is useful for finding the relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. Plot the best fit line and predict the oil price and same will be verified using R-squared metrices.
 
@@ -16,12 +18,18 @@ However, always been a challenge especially when plotting the date series. It re
 3. Convert DateTiemIndex to Day elapsed
 4. Plot the Time series data
 
-# Data Visualization
-  From the below graphs, it is observed that the positive, strong co-relation between dependent and independent variable. Also, the data is normally distributed. Hence, it satisfies the assumptions of Linear Regression.
+# Assumptions of LR
+  1. Linear relationship:
+  From the below graphs, it is observed that the positive, strong co-relation between dependent and independent variable. 
   
  ![image.png](Images/Line_Graph.png)<BR>
   
+ 2. Normal Distribution
+ It is inferred from the below graph, that the data is normally distrinuted.
+  
 ![image.png](Images/Regression.png)<BR>
+
+Hence, it satisfies the assumptions of Linear Regression.
 
 # Split Data - Train & Test
 Dataset has been split into Train & Test. Model learn the train data and find the best fit model with the below co-efficient & Intercept.
